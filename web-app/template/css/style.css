@@ -39,8 +39,14 @@ body {
 }
 .logo-font-1 {
   font-family: 'Pacifico', cursive, sans-serif;
-   font-size: 25px;
+   font-size: 22px;
 }
+
+.logo-font-2 {
+  font-family: 'Pacifico', cursive, sans-serif;
+   font-size: 22px;
+}
+
 /*Typography
 ---------------------------------- */
 html {
